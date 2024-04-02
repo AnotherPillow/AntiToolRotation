@@ -1,0 +1,10 @@
+{
+  "Name": "AntiToolRotation",
+  "Author": "AnotherPillow",
+  "Version": "1.0.0",
+  "Description": "Stops tools from rotating you.",
+  "UniqueID": "AnotherPillow.AntiToolRotation",
+  "EntryDll": "AntiToolRotation.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
